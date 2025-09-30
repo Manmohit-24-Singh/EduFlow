@@ -84,3 +84,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 installation command: npm install react-router-dom
+
+
+
+Please run the app.py first and then the React App.
