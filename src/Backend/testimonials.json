@@ -1,0 +1,26 @@
+[
+    {
+        "studentName": "Alice Johnson",
+        "courseName": "Web Development",
+        "review": "Excellent course structure!",
+        "rating": 5
+    },
+    {
+        "studentName": "Michael Brown",
+        "courseName": "Python for Beginners",
+        "review": "Great introduction to Python. Very beginner-friendly.",
+        "rating": 4.5
+    },
+    {
+        "studentName": "Sophia Martinez",
+        "courseName": "Data Science with Python",
+        "review": "Very informative and well-paced. Highly recommended!",
+        "rating": 5
+    },
+    {
+        "studentName": "Daniel Clark",
+        "courseName": "Cybersecurity Fundamentals",
+        "review": "Helped me understand security concepts in-depth.",
+        "rating": 4.7
+    }
+]
